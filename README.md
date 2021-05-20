@@ -1,3 +1,3 @@
 # Algorithmic_Trading_Stratagy
 
-WORK IN PROGRESS
+PROJECT IS WORK IN PROGRESS
